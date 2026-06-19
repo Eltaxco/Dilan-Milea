@@ -1,7 +1,7 @@
 function generateLink(){
 
     const domain =
-    "https://domainanda.com/";
+    "https://eltaxco.github.io/Dilan-Milea/";
 
     const input =
     document.getElementById("namaList").value;
